@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="lib/itextpdf-5.4.1.jar"/>
+	<classpathentry kind="lib" path="lib/bioc.jar"/>
+	<classpathentry kind="lib" path="lib/pengyifan-pubtator-0.0.3-SNAPSHOT-jar-with-dependencies.jar"/>
+	<classpathentry kind="lib" path="lib/pdfbox-2.0.3.jar"/>
+	<classpathentry kind="lib" path="lib/commons-logging-1.1.1.jar"/>
+	<classpathentry kind="lib" path="lib/fontbox-2.0.3.jar"/>
+	<classpathentry kind="lib" path="lib/gson-2.3.1.jar"/>
+	<classpathentry kind="lib" path="lib/poi-3.17/poi-3.17.jar"/>
+	<classpathentry kind="lib" path="lib/poi-3.17/poi-examples-3.17.jar"/>
+	<classpathentry kind="lib" path="lib/poi-3.17/poi-excelant-3.17.jar"/>
+	<classpathentry kind="lib" path="lib/poi-3.17/poi-ooxml-3.17.jar"/>
+	<classpathentry kind="lib" path="lib/poi-3.17/poi-ooxml-schemas-3.17.jar"/>
+	<classpathentry kind="lib" path="lib/poi-3.17/poi-scratchpad-3.17.jar"/>
+	<classpathentry kind="lib" path="lib/xmlbeans-2.5.0.jar"/>
+	<classpathentry kind="lib" path="lib/commons-compress-1.15-javadoc.jar"/>
+	<classpathentry kind="lib" path="lib/commons-compress-1.15-sources.jar"/>
+	<classpathentry kind="lib" path="lib/commons-compress-1.15-test-sources.jar"/>
+	<classpathentry kind="lib" path="lib/commons-compress-1.15-tests.jar"/>
+	<classpathentry kind="lib" path="lib/commons-compress-1.15.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
